@@ -1,0 +1,34 @@
+{
+    "name": "Flutter Docker",
+    "dockerComposeFile": ["../docker-compose.yml"],
+  
+    "service": "flutter",
+    "remoteUser": "root",
+    "remoteEnv": {
+      "QT_X11_NO_MITSHM": "1",
+      "DISPLAY": "${localEnv:DISPLAY}",
+      "XAUTHORITY": "/tmp/.X11-unix",
+      "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/flutter/bin"
+    },
+  
+    "settings": {
+      "dart.flutterCreateAndroidX": true,
+      "dart.flutterCreateIOSLanguage": "swift",
+      "dart.flutterTestLogFile": "test_results.xml",
+      "dart.flutterTestLogBufferSize": 8192000,
+      "dart.flutterTestLogFileVerbose": true,
+      "dart.sdkPath": "/opt/flutter/bin/cache/dart-sdk",
+      "dart.flutterPath": "/opt/flutter/bin/flutter",
+      "dart.flutterTestLogFile": "test_results.xml",
+      "dart.flutterTestLogBufferSize": 8192000,
+      "dart.flutterTestLogFileVerbose": true,
+      "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+      "dart.devToolsLogFile": "devtools.log"
+    },
+  
+    "runArgs": ["--privileged", "-P"],
+    "extensions": ["dart-code.flutter"],
+    "workspaceMount": "source=${localWorkspaceFolder}/workspace,target=/root/workspace,type=bind,consistency=delegated",
+    "workspaceFolder": "/root/workspace"
+  }
+  
