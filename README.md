@@ -19,6 +19,8 @@ docker pull soethandara/flutter_env_vscode
 ```
 git clone https://github.com/soethandara/plas_flutter_docker.git
 ```
+
+3. go to the correspondence folder from the project
 - **For Windows user,**
   - go to windows folder
   - ```cd plas_flutter_docker/windows/```
@@ -28,10 +30,15 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 - **For Linux user,**
   - go to linux folder
   - ```cd plas_flutter_docker/linux/```
-- Open VS Code (or) ```code .```
-- Connect to container
+
+4. Open VS Code
+```code .```
+
+5. Connect to container
   - Click ```>< icon at the left-button of VSCode``` (or) ```shift+alt+p```
   - Type -> ```Open Folder in Container...```
+
+### Goals
 - **Student can see sample flutter projects**
   - go to each project
   - run ```flutter run -d web-server```
