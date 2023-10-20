@@ -28,15 +28,15 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 - **For Linux user,**
   - go to linux folder
   - ```cd plas_flutter_docker/linux/```
-- Open VS Code
+- Open VS Code (or) ```code .```
 - Connect to container
-  - Click >< icon at the left-button of VSCode (or) shift+alt+p 
-  - Type -> Open Folder in Container...
+  - Click ```>< icon at the left-button of VSCode``` (or) ```shift+alt+p```
+  - Type -> ```Open Folder in Container...```
 - Student can see sample flutter projects
   - go to each project
-  - run "flutter run -d web-server"
+  - run ```flutter run -d web-server```
 - Student can create own flutter app
   - create project
-    - mkdir sample_project_1
-    - cd sample_project_1
-    - flutter create .    
+    - ```mkdir sample_project_1```
+    - ```cd sample_project_1```
+    - ```flutter create .```    
