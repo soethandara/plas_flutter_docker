@@ -31,7 +31,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - go to linux folder
   - ```cd plas_flutter_docker/linux/```
 
-4. Open VS Code manually or type```code .```
+4. Open VS Code manually or type```code .``` from terminal
 
 5. Connect to container
   - Click ```>< icon at the left-button of VSCode``` (or) ```shift+alt+p```
