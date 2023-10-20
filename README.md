@@ -24,8 +24,10 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - ```cd plas_flutter_docker/windows/```
 - **For MacOS user,**
   - go to mac folder
+  - ```cd plas_flutter_docker/mac/```
 - **For Linux user,**
   - go to linux folder
+  - ```cd plas_flutter_docker/linux/```
 - Open VS Code
 - Connect to container
   - Click >< icon at the left-button of VSCode (or) shift+alt+p 
