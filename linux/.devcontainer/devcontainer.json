@@ -1,0 +1,24 @@
+{
+    "name": "Flutter docker",
+    "dockerComposeFile": [
+        "../docker-compose.yml",
+    ],
+    "service": "flutter",
+    "remoteUser": "root",
+    "remoteEnv": {
+        "QT_X11_NO_MITSHM": "1",
+        "DISPLAY": "${localEnv:DISPLAY}",
+        "XAUTHORITY": "/tmp/.X11-unix",
+        "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/flutter/bin",
+    },
+    "settings": {
+        "terminal.integrated.shell.linux": null
+    },
+    "runArgs": [
+        "--privileged",
+        "-P",
+    ],
+    "extensions": ["dart-code.flutter"],
+    "workspaceMount": "source=${localWorkspaceFolder}/workspace,target=/root/workspace,type=bind,consistency=delegated",
+    "workspaceFolder": "/root/workspace"
+}
