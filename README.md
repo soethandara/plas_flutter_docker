@@ -8,7 +8,7 @@
 - install Docker
   
 ## System Usage
-1. docker pull 
+1. docker pull soethandara/flutter_env_vscode
 2. git clone https://github.com/soethandara/plas_flutter_docker.git (or) download the zip
 - For Windows user,
   - go to windows folder
@@ -17,3 +17,14 @@
 - For Linux user,
   - go to linux folder
 - Open VS Code
+- Connect to container
+  - Click >< icon at the left-button of VSCode (or) shift+alt+p 
+  - Type -> Open Folder in Container...
+- Student can see sample flutter projects
+  - go to each project
+  - run "flutter run -d web-server"
+- Student can create own flutter app
+  - create project
+    - mkdir sample_project_1
+    - cd sample_project_1
+    - flutter create .    
