@@ -8,7 +8,7 @@
 - install **Docker**
   
 ## System Usage
-1. get the docker image, which has flutter development environment. 
+1. get the **docker image**, which has **flutter development environment**. 
 ```
 docker pull soethandara/flutter_env_vscode:v1
 ```
