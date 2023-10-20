@@ -12,7 +12,13 @@
 ```
 docker pull soethandara/flutter_env_vscode
 ```
-2. git clone https://github.com/soethandara/plas_flutter_docker.git (or) download the zip
+
+2. get the project from Github, which has
+- **docker-compose.yml** to execute pulled docker image
+- **devcontainer.json** to connect running docker container from VSCode.
+```
+git clone https://github.com/soethandara/plas_flutter_docker.git
+```
 - **For Windows user,**
   - go to windows folder
 - **For MacOS user,**
