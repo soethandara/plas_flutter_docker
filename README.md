@@ -38,10 +38,10 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - Type -> ```Open Folder in Container...```
 
 ### Goals
-- **Student can see sample flutter projects**
+- **Student can see sample flutter projects to check the system is working correctly or not**
   - go to each project
   - run ```flutter run -d web-server```
-- **Student can create own flutter app**
+- **Student can also create his/her own flutter app**
   - create project
     - ```mkdir sample_project_1```
     - ```cd sample_project_1```
