@@ -8,7 +8,10 @@
 - install **Docker**
   
 ## System Usage
-1. docker pull soethandara/flutter_env_vscode
+1. get the docker image, which has flutter development environment. 
+```
+docker pull soethandara/flutter_env_vscode
+```
 2. git clone https://github.com/soethandara/plas_flutter_docker.git (or) download the zip
 - **For Windows user,**
   - go to windows folder
