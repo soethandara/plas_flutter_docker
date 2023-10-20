@@ -10,7 +10,7 @@
 ## System Usage
 1. get the docker image, which has flutter development environment. 
 ```
-docker pull soethandara/flutter_env_vscode
+docker pull soethandara/flutter_env_vscode:v1
 ```
 
 2. get the project from Github, which has
