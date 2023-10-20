@@ -3,7 +3,7 @@
 
 ## Prerequisites 
 - install VSCode
-- Add the following extensions to VSCode
+- add the following extensions to VSCode
   - Flutter, Docker, Remote Environment
 - install Docker
   
