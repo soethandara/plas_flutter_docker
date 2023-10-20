@@ -46,3 +46,4 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
     - ```mkdir sample_project_1```
     - ```cd sample_project_1```
     - ```flutter create .```    
+https://github.com/soethandara/plas_flutter_docker/files/13054804/CWP.with.VSCode_Manual_Java.-.pdf
