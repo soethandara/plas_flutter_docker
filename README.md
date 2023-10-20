@@ -8,7 +8,8 @@
 - install Docker
   
 ## System Usage
-- git clone https://github.com/soethandara/plas_flutter_docker.git (or) download the zip
+1. docker pull 
+2. git clone https://github.com/soethandara/plas_flutter_docker.git (or) download the zip
 - For Windows user,
   - go to windows folder
 - For MacOS user,
