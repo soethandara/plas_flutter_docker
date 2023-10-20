@@ -2,19 +2,19 @@
 ![flutter](https://github.com/soethandara/plas_flutter_docker/assets/148550611/26af9f16-4306-47be-ac17-36ad895f4185)
 
 ## Prerequisites 
-- install VSCode
+- install **VSCode**
 - add the following extensions to VSCode
   - **Flutter, Docker, Remote Environment**
-- install Docker
+- install **Docker**
   
 ## System Usage
 1. docker pull soethandara/flutter_env_vscode
 2. git clone https://github.com/soethandara/plas_flutter_docker.git (or) download the zip
-- For Windows user,
+- **For Windows user,**
   - go to windows folder
-- For MacOS user,
+- **For MacOS user,**
   - go to mac folder
-- For Linux user,
+- **For Linux user,**
   - go to linux folder
 - Open VS Code
 - Connect to container
