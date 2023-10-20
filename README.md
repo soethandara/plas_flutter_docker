@@ -21,6 +21,9 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 ```
 - **For Windows user,**
   - go to windows folder
+  - ```
+cd plas_flutter_docker/windows/
+```
 - **For MacOS user,**
   - go to mac folder
 - **For Linux user,**
