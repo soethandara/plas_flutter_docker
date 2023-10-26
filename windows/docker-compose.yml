@@ -1,7 +1,7 @@
 version: "3"
 services:
   flutter:
-    image: flutter-docker/ubuntu:latest
+    image: soethandara/plas_flutter_docker:v1
     working_dir: /root/workspace
     command: sleep infinity
     environment:
@@ -10,7 +10,7 @@ services:
     volumes:
       - ~/.gitconfig:/home/root/.gitconfig
       - ./:/root/workspace
-      - //c/test:/root/workspace  # Adjust the path to your Windows workspace folder
+      - //c/flutter_workspace:/root/workspace  # Adjust the path to your Windows workspace folder
     network_mode: "host"
     extra_hosts:
       - flutter:127.0.1.1
