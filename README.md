@@ -45,17 +45,29 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - **Exercise1**
     - scp -r /root/exercise1 .
     - modify the codes from VSCode
+    - **Output in sample project**
+    - **Expected result**
     - run ```flutter run -d web-server```
   - **Exercise2**
     - scp -r /root/exercise2 .
     - modify the codes from VSCode
+    - **Output in sample project**
+    - **Expected result**
     - run ```flutter run -d web-server```
   - **Exercise3**
     - scp -r /root/exercise3 .
     - modify the codes from VSCode
+    - **Output in sample project**
+    - **Expected result**
     - run ```flutter run -d web-server```
+      
 - **Student can also create his/her own flutter app**
   - create project
     - ```mkdir sample_project_1```
     - ```cd sample_project_1```
-    - ```flutter create .```    
+    - ```flutter create .```
+    - write flutter app
+    - test output by ```flutter run -d web-server```
+
+### Feedbacks
+- Please access the following **Google form** for taking survey usage of this system
