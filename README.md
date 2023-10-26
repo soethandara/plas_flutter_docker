@@ -31,7 +31,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - go to linux folder
   - ```cd plas_flutter_docker/linux/```
 
-4. Open VS Code manually or type```code .``` from terminal
+4. Type```code .``` from terminal (or) Open VS Code manually and open correspondence folder according to your OS (eg. plas_flutter_docker/windows)
 
 5. Connect to container
   - Click <img width="33" alt="Screenshot 2023-10-26 at 22 41 49" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/67707f4d-ba87-464d-abad-31421b524253">
