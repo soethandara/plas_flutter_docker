@@ -40,7 +40,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
  ```icon at the left-button of VSCode``` (or) ```shift+alt+p ```
   - Type -> ```Open Folder in Container...``` (or) ```Reopen in Container ```
 
-### Goals
+## Goals
 - **Student can see three sample flutter projects under /root directory**
   - ls -al /root
 - **Student can modify these three sample projects according to the guide document as the exercise**
