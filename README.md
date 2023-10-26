@@ -46,7 +46,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
     - scp -r /root/exercise1 .
     - modify the codes from VSCode
     - **Modification of Exercise-1**
-       ![e1](https://github.com/soethandara/plas_flutter_docker/assets/148550611/65c14ab8-a390-440b-9f0c-888e111f6067)
+       ![e1](https://github.com/soethandara/plas_flutter_docker/assets/148550611/d4f36363-252a-492b-9fdb-e8b877032c96)
     - run ```flutter run -d web-server```
   - **Exercise2**
     - scp -r /root/exercise2 .
