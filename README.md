@@ -39,9 +39,21 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - Type -> ```Open Folder in Container...``` (or) ```Reopen in Container ```
 
 ### Goals
-- **Student can see sample flutter projects to check the system is working correctly or not**
-  - go to each project
-  - run ```flutter run -d web-server```
+- **Student can see three sample flutter projects under /root directory**
+  - ls -al /root
+- **Student can modify these three sample projects according to the guide document as the exercise**
+  - **Exercise1**
+    - scp -r /root/exercise1 .
+    - modify the codes from VSCode
+    - run ```flutter run -d web-server```
+  - **Exercise2**
+    - scp -r /root/exercise2 .
+    - modify the codes from VSCode
+    - run ```flutter run -d web-server```
+  - **Exercise3**
+    - scp -r /root/exercise3 .
+    - modify the codes from VSCode
+    - run ```flutter run -d web-server```
 - **Student can also create his/her own flutter app**
   - create project
     - ```mkdir sample_project_1```
