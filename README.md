@@ -42,7 +42,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 
 ## Goals
 - **Student can see three sample flutter projects under /root directory**
-  - ls -al /root
+  - ```ls -al /root```
 - **Student can modify these three sample projects according to the guide document as the exercise**
   - **Exercise1**
     - ```scp -r /root/exercise1 .```
