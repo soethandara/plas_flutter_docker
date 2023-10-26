@@ -58,7 +58,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
     - scp -r /root/exercise3 .
     - modify the codes as same as **expected result**
    
-    ![e3](https://github.com/soethandara/plas_flutter_docker/assets/148550611/4fae0113-5fb2-41ed-a617-55e6811c69ed)
+    ![e3](https://github.com/soethandara/plas_flutter_docker/assets/148550611/d8ed2085-1107-4a15-a6bc-0f326c107923)
     - run ```flutter run -d web-server```
       
 - **Student can also create his/her own flutter app**
