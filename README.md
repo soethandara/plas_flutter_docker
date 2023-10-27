@@ -4,7 +4,7 @@
 ## Prerequisites 
 - install **VSCode**
 - add the following extensions to VSCode
-  - **Flutter, Docker, Remote Environment**
+  - **Flutter, Docker, Remote Development**
 - install **Docker**
 - **if necessary,** please reference the following user manual 
   [plas_flutter_docker.pdf](https://github.com/soethandara/plas_flutter_docker/files/13179599/plas_flutter_docker.pdf)
