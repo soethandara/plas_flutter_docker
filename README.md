@@ -74,12 +74,9 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 ## Answer File Submission
 - Student need to submit **main.dart** for each exercise
 - Location of **main.dart**
-    **Windows**
-    - ```C://flutter_workspace/exercise1/lib/main.dart```
-    **MacOS**
-    - current_directory```/exercise1/lib/main.dart```
-    **Linux**
-    - current_directory```/exercise1/lib/main.dart```
+    - ```C://flutter_workspace/exercise1/lib/main.dart``` at **Windows**
+    - current_directory```/exercise1/lib/main.dart``` at **MacOS**
+    - current_directory```/exercise1/lib/main.dart``` at **Linux**
   
 - To submit, rename it as the following format.
   - Answer file format -> **studentId_main.dart** (e.g, 43M21510_main.dart)
