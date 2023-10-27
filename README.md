@@ -78,8 +78,8 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
     - current_directory```/exercise1/lib/main.dart``` at **MacOS**
     - current_directory```/exercise1/lib/main.dart``` at **Linux**
   
-- To submit it, rename as the following format.
-  - Answer file format -> **studentId_main.dart** (e.g, 43M21510_main.dart)
+- To submit **main.dart**, rename as the following format.
+  - **studentId_main.dart** (e.g, 43M21510_main.dart)
 - **Exercise1**
     https://u.pcloud.com/#page=puplink&code=7XIkZ3rfLz7YXcmYlTj1QtJ9nA01IEKB7
 - **Exercise2**
