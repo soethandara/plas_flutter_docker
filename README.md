@@ -10,9 +10,14 @@
 [plas_flutter_docker.pdf](https://github.com/soethandara/plas_flutter_docker/files/13191374/plas_flutter_docker.pdf)
   
 ## System Usage
-1. get the **docker image**, which has **flutter development environment**. 
+1. get the **docker image**, which has **flutter development environment**.
+- **For MacOS user,**   
 ```
 docker pull soethandara/plas_flutter_docker:v1
+```
+- **For Windows/Linux user,**  
+```
+docker pull soethandara/plas_flutter_docker:v1.1
 ```
 
 2. get the project from Github, which has
