@@ -43,7 +43,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 6. Connect to container
   - Click <img width="33" alt="Screenshot 2023-10-26 at 22 41 49" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/67707f4d-ba87-464d-abad-31421b524253">
  ```icon at the left-button of VSCode``` (or) ```shift+alt+p ```
-  - Type -> ```Open Folder in Container...``` (or) ```Reopen in Container ```
+  - Type -> ```Reopen in Container ``` (or) ```Open Folder in Container...```
 
 ## Goals
 - **Student can see three sample flutter projects under /root directory using the following comment on VS code terminal**
