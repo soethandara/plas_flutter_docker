@@ -1,7 +1,7 @@
 version: "3"
 services:
     flutter:
-        image: soethandara/flutter_docker:v1
+        image: soethandara/plas_flutter_docker:v1.1
         working_dir: /root/workspace
         command: sleep infinity
         environment:
