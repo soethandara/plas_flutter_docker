@@ -37,6 +37,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 - **For Linux user,**
   - go to linux folder
   - ```cd plas_flutter_docker/linux/```
+  - ```docker compose up```
 
 4. Type```code .``` from terminal (or) Open VS Code and correspondence folder manually according to your OS (eg. plas_flutter_docker/windows)
 
