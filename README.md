@@ -52,21 +52,21 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - **Exercise1**
     - ```scp -r /root/exercise1 .```
     - ```cd exercise1```
-    - modify the codes as same as **expected result**
+    - modify the codes as same as **expected result** in **main.dart** under **lib folder** from exercise1 
       
     ![e1](https://github.com/soethandara/plas_flutter_docker/assets/148550611/8b386cdb-117b-4625-acc3-4d66b535cc31)
     - run ```flutter run -d web-server```
   - **Exercise2**
     - ```scp -r /root/exercise2 .```
     - ```cd exercise2```
-    - modify the codes as same as **expected result**
+    - modify the codes as same as **expected result** in **main.dart** under **lib folder** from exercise2
       
     ![e2](https://github.com/soethandara/plas_flutter_docker/assets/148550611/187ade6d-4e35-4c25-8ce2-d627cecc7e0b)
     - run ```flutter run -d web-server```
   - **Exercise3**
     - ```scp -r /root/exercise3 .```
     - ```cd exercise3```
-    - modify the codes as same as **expected result**
+    - modify the codes as same as **expected result** in **main.dart** under **lib folder** from exercise3 
    
     ![e3](https://github.com/soethandara/plas_flutter_docker/assets/148550611/b8c49586-7b81-4af9-ba8a-7720b879837f)
     - run ```flutter run -d web-server```
