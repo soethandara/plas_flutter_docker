@@ -258,7 +258,7 @@ flutter run -d web-server
 ## 6. System Usage Feedback
 > Please access the following **Google form** for taking survey usage of this system
   
-- :page_facing_up: https://forms.gle/hidR2kpiEtAQJ2uJ6
+- 📝 https://forms.gle/hidR2kpiEtAQJ2uJ6
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑</a>
 <hr style="border-top: 2px solid #333;">
