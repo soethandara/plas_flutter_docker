@@ -1,20 +1,20 @@
 ## Flutter Development Environment in Docker Container
 
-1. [About the System](#1-about-the-system)
-2. [Prerequisites](#2-prerequisites)
-3. [Follow the procedure according to OS](#3-procedure-according-to-OS)
+1. ⚙️  [About the System](#1-about-the-system)
+2. 🔨 [Prerequisites](#2-prerequisites)
+3. 🖥 [Follow the procedure according to OS](#3-procedure-according-to-OS)
 	- [Windows](#windows)
 	- [Linux (Ubuntu)](#linux-Ubuntu)
 	- [MacOS](#macos)
 		- [Intel Processor](#macos-intel-processor)
 		- [M1/2/3 Chip Processor](#macos-m-chip-processor) 
-4. [About Exercises](#4-about-exercises)
+4. 📜 [About Exercises](#4-about-exercises)
 	- [Exercise-1](#exercise-1)
 	- [Exercise-2](#exercise-2)
 	- [Exercise-3](#exercise-3)
-5. [Answer File](#5-answer-file)
-6. [Answer File Submission Links](#6-answer-file-submission-links)
-7. [System Usage Feedback](#6-system-usage-feedback)
+5. 📑 [Answer File](#5-answer-file)
+6. 🔖 [Answer File Submission Links](#6-answer-file-submission-links)
+7. 📝 [System Usage Feedback](#6-system-usage-feedback)
 
 <hr style="border-top: 2px solid #333;">
 
