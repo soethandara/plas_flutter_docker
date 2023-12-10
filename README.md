@@ -180,6 +180,8 @@ flutter run -d web-server
 > **Access** http://localhost:port
 
 (**port number** is dynamic and so, access url will be displayed in the output of above command. It can be accessed then.)
+**ps:**
+> On MacOS, there may have no response matter when calling the url (http://localhost:port). It is still figuring out ....
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
