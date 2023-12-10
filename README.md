@@ -39,7 +39,7 @@ In response to the identified challenges confronted by students in mobile app de
 	| <img height="50" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/74b958e4-8211-481c-8454-8aa7a719ce8b"> |      Docker       | <ul><li>https://www.docker.com/products/docker-desktop</li></ul>|
 	| <img height="50" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/3c890766-dda1-4b84-80b2-57ae170f6e40"> |      flutter       | <ul><li>`Add 'flutter' extension to VSCode`</li></ul> |
 	| <img height="50" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/54ff3a0b-46cc-442e-9e4f-d5df90509cb4"> |      remote development       | <ul><li>`Add 'remote development' extension to VSCode`</li></ul> |
-	| <img height="50" src="https://github.com/soethandara/test/assets/148550611/b2f5e178-7253-4965-a956-10ae3b61529e"> |      docker       | <ul><li>`Add 'docker' extension to VSCode`</li></ul> |
+	| <img height="50" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/74b958e4-8211-481c-8454-8aa7a719ce8b"> |      docker       | <ul><li>`Add 'docker' extension to VSCode`</li></ul> |
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
