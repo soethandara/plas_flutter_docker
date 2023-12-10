@@ -92,6 +92,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
  ```icon at the left-button of VSCode```
   - **Type**  ```Reopen in Container ``` (or) **Choose**  ```Open Folder in Container...```
 
+> [!CAUTION]
 > if **error** is occurred in the above stage, please do the following:
 - **Click** ```Edit devconainer.json Locally```
 - **Open** terminal from VSCode
