@@ -24,7 +24,7 @@ In response to the identified challenges confronted by students in mobile app de
 </p>
 
 <p align="center">
-  <img src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/26af9f16-4306-47be-ac17-36ad895f4185" alt="flutter" width="800" />
+  <img src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/0b143fce-8f8e-4fe4-b8b4-7d748595ee75" alt="flutter" width="800" />
 </p>
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 
