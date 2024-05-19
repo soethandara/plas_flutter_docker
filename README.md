@@ -180,6 +180,8 @@ flutter run -d web-server
 
 > **Access** http://localhost:port
 
+<img width="678" alt="autoPort" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/30f1159c-a36b-465c-be39-049ead64c822">
+
 (**port number** is dynamic and so, access url will be displayed in the output of above command. It can be accessed then.)
 
 > [!CAUTION]
