@@ -192,6 +192,8 @@ flutter run -d web-server --web-hostname 0.0.0.0 --web-port 5001
 
 > **Access** http://localhost:5001
 
+<img width="984" alt="setPort" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/c6f3c39a-5894-4ff4-bb10-000ae2155e66">
+
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
