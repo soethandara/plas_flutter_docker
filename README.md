@@ -53,7 +53,7 @@ In response to the identified challenges confronted by students in mobile app de
 
 > **Get** the docker image, which has flutter development environment.
 ```
-docker pull soethandara/plas_flutter_docker:v1.1
+docker pull soethandara/plas_flutter_docker:v2.1
 ```
 
 > **Get** the project from Github, which has
@@ -77,7 +77,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 
 > **Get** the docker image, which has flutter development environment.
 ```
-docker pull soethandara/plas_flutter_docker:v1.1
+docker pull soethandara/plas_flutter_docker:v2.1
 ```
 
 > **Get** the project from Github, which has
@@ -113,7 +113,7 @@ docker compose up
 
 > **Get** the docker image, which has flutter development environment.
 ```
-docker pull soethandara/plas_flutter_docker:v1.1
+docker pull soethandara/plas_flutter_docker:v2.1
 ```
 
 > **Get** the project from Github, which has
@@ -137,7 +137,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 
 > **Get** the docker image, which has flutter development environment.
 ```
-docker pull soethandara/plas_flutter_docker:v1.2
+docker pull soethandara/plas_flutter_docker:v2.2
 ```
 
 > **Get** the project from Github, which has
