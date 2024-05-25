@@ -297,7 +297,8 @@ flutter run -d web-server
 - current_directory```/exercise1/lib/main.dart```  at **Linux**
 - current_directory```/exercise1/lib/main.dart```  at **MacOS**
 > Student also need to submit **expected result screenshot** shows in browser by accessing http://localhost:port (for eg. exercise1 in below)
-- **Note:** please maximize browser while taking screenshot 
+- **Note:** please maximize browser while taking screenshot
+- <img width="2240" alt="Screenshot 2024-05-25 at 0 51 31" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/dda464a0-99e1-4c76-a61c-eee94e9a7411">
  
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
