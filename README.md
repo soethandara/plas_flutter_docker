@@ -304,17 +304,17 @@ flutter run -d web-server
 <hr style="border-top: 2px solid #333;">
 
 ## 6. Answer File Submission Links
-> To submit **main.dart**, rename as the following format.
-  - **studentId_main.dart** (e.g, 43M21510_main.dart)
+[//]: # > To submit **main.dart**, rename as the following format.
+[//]: #   - **studentId_main.dart** (e.g, 43M21510_main.dart)
 
-- **📜 Exercise1**
- https://u.pcloud.com/#page=puplink&code=7XIkZ3rfLz7YXcmYlTj1QtJ9nA01IEKB7
+[//]: # - **📜 Exercise1**
+[//]: #  https://u.pcloud.com/#page=puplink&code=7XIkZ3rfLz7YXcmYlTj1QtJ9nA01IEKB7
 
-- **📜 Exercise2**
- https://u.pcloud.com/#page=puplink&code=kXIkZ6Ye4qeJJqihxtKHtTxDJgmOaNYdy
+[//]: # - **📜 Exercise2**
+[//]: #  https://u.pcloud.com/#page=puplink&code=kXIkZ6Ye4qeJJqihxtKHtTxDJgmOaNYdy
 
-- **📜 Exercise3**
- https://u.pcloud.com/#page=puplink&code=XXIkZi84JJaLos9LMkftECB3iFp8skIR7
+[//]: # - **📜 Exercise3**
+[//]: #  https://u.pcloud.com/#page=puplink&code=XXIkZi84JJaLos9LMkftECB3iFp8skIR7
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
