@@ -171,7 +171,7 @@ cd /root/workspace/exercise1
 ```
 > **Modify** the codes as same as **expected result** in **main.dart** under **lib folder** from exercise-1 
       
-![e1](https://github.com/soethandara/plas_flutter_docker/assets/148550611/8b386cdb-117b-4625-acc3-4d66b535cc31)
+![e1](https://github.com/soethandara/plas_flutter_docker/assets/148550611/69159920-c512-46f9-9245-5eb82764a35e)
 
 > **Run** following command to check the output
 ```
@@ -206,7 +206,7 @@ cd /root/workspace/exercise2
 ```
 > **Modify** the codes as same as **expected result** in **main.dart** under **lib folder** from exercise-2
       
- ![e2](https://github.com/soethandara/plas_flutter_docker/assets/148550611/187ade6d-4e35-4c25-8ce2-d627cecc7e0b)
+![e2](https://github.com/soethandara/plas_flutter_docker/assets/148550611/d0d846d0-c863-4c7c-8c30-340b743fca78)
 
 > **Run** to check the output
 ```
@@ -229,7 +229,53 @@ cd /root/workspace/exercise3
 ```
 > **Modify** the codes as same as **expected result** in **main.dart** under **lib folder** from exercise-3 
    
-![e3](https://github.com/soethandara/plas_flutter_docker/assets/148550611/b8c49586-7b81-4af9-ba8a-7720b879837f)
+![e3](https://github.com/soethandara/plas_flutter_docker/assets/148550611/b9e04973-89c6-4518-97d0-7665b652b342)
+
+> **Run** to check the output
+```
+flutter run -d web-server
+```
+
+> **Access** http://localhost:port
+
+(**port number** is dynamic and so, access url will be displayed in the output of above command. It can be accessed then.)
+
+<a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
+<hr style="border-top: 2px solid #333;">
+
+### Exercise-4
+
+> **Copy** exercise-4 to workplace
+```
+scp -r /root/exercise4 /root/workspace/
+cd /root/workspace/exercise4
+```
+> **Modify** the codes as same as **expected result** in **main.dart** under **lib folder** from exercise-4
+      
+![e4](https://github.com/soethandara/plas_flutter_docker/assets/148550611/8a6689c2-8582-478b-ae38-20aa37c63a5b)
+
+> **Run** to check the output
+```
+flutter run -d web-server
+```
+
+> **Access** http://localhost:port
+
+(**port number** is dynamic and so, access url will be displayed in the output of above command. It can be accessed then.)
+
+<a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
+<hr style="border-top: 2px solid #333;">
+
+### Exercise-5
+
+> **Copy** exercise-5 to workplace
+```
+scp -r /root/exercise5 /root/workspace/
+cd /root/workspace/exercise5
+```
+> **Modify** the codes as same as **expected result** in **main.dart** under **lib folder** from exercise-5
+      
+![e5](https://github.com/soethandara/plas_flutter_docker/assets/148550611/399eb8ae-61d1-47db-99e3-d65deb51e171)
 
 > **Run** to check the output
 ```
