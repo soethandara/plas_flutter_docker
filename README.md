@@ -304,6 +304,7 @@ flutter run -d web-server
 <hr style="border-top: 2px solid #333;">
 
 ## 6. Answer File Submission Links
+<!---
 [//]: # > To submit **main.dart**, rename as the following format.
 [//]: #   - **studentId_main.dart** (e.g, 43M21510_main.dart)
 
@@ -315,7 +316,7 @@ flutter run -d web-server
 
 [//]: # - **📜 Exercise3**
 [//]: #  https://u.pcloud.com/#page=puplink&code=XXIkZi84JJaLos9LMkftECB3iFp8skIR7
-
+-->
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
