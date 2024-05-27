@@ -33,7 +33,8 @@ In response to the identified challenges confronted by students in mobile app de
 <hr style="border-top: 2px solid #333;">
 
 ## 2. Prerequisites 
-- It is needed to install <strong>VSCode</strong> and <strong>Docker</strong>. Then, three extensions (flutter, remote development, docker) are necessary to add. <strong>if necessary,</strong> please download & reference the following user manual [plas_flutter_docker.pdf](https://github.com/soethandara/plas_flutter_docker/files/13625155/plas_flutter_docker.pdf)
+- It is needed to install <strong>VSCode</strong> and <strong>Docker</strong>. Then, three extensions (flutter, remote development, docker) are necessary to add. <strong>if necessary,</strong> please download & reference the following user manual [plas_flutter_docker.pdf](https://github.com/soethandara/plas_flutter_docker/files/15453031/plas_flutter_docker.pdf)
+
 
 	|                                                        Tool                                                        | Install | URL                                                                                                     |
 	| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
