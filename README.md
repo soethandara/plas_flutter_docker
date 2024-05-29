@@ -159,7 +159,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
 <hr style="border-top: 2px solid #333;">
 
 ## 4. About Exercises
-> Student can see 3 sample flutter projects under **/root** directory using the following comment on VS code terminal. Students need to modify these 3 sample projects according to the expected results. If above step-3 is successful, it will automatically enter to the running container and terminal will be opened. The following things can be performed at the opened terminal.
+> Student can see 5 sample flutter projects under **/root** directory using the following comment on VS code terminal. Students need to modify these 5 sample projects according to the expected results. If above step-3 is successful, it will automatically enter to the running container and terminal will be opened. The following things can be performed at the opened terminal.
 
 ```
 ls -al /root
