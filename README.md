@@ -312,7 +312,7 @@ flutter run -d web-server
 > 
 > Submitted files are needed to rename as the following format.
 - **studentId_exercise1.dart** (e.g, 43M21510_exercise1.dart)
-- - **studentId_exercise2.dart** (e.g, 43M21510_exercise2.dart)
+- **studentId_exercise2.dart** (e.g, 43M21510_exercise2.dart)
 - **studentId_exercise3.dart** (e.g, 43M21510_exercise3.dart)
 - **studentId_exercise4.dart** (e.g, 43M21510_exercise4.dart)
 - **studentId_exercise5.dart** (e.g, 43M21510_exercise5.dart)
