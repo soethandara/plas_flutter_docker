@@ -311,8 +311,8 @@ flutter run -d web-server
 > After finished exercises, student need to submit **main.dart** and <!-- **expected result screenshot** --> via Moodle
 > 
 > Submitted files are needed to rename as the following format.
-- **studentId_main.dart** (e.g, 43M21510_main.dart)
-- **studentId_ss.png/jpeg/jpg** (e.g, 43M21510_ss.png)
+- **studentId_exercise1.dart** (e.g, 43M21510_exercise.dart)
+<!-- - **studentId_ss.png/jpeg/jpg** (e.g, 43M21510_ss.png)-->
 <!---
 [//]: # > To submit **main.dart**, rename as the following format.
 [//]: #   - **studentId_main.dart** (e.g, 43M21510_main.dart)
