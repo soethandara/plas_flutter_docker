@@ -5,9 +5,9 @@
 3. 🖥 [Follow the procedure according to OS](#3-procedure-according-to-OS) 
 	- [Windows](#windows)
 	- [Linux (Ubuntu)](#linux-Ubuntu)
-	- [MacOS](#macos)
+<!--	- [MacOS](#macos)
 		- [Intel Processor](#macos-intel-processor)
-		- [M1/2/3 Chip Processor](#macos-m-chip-processor) 
+		- [M1/2/3 Chip Processor](#macos-m-chip-processor) -->
 4. 📜 [About Exercises](#4-about-exercises) 
 	- [Exercise-1](#exercise-1)
 	- [Exercise-2](#exercise-2)
@@ -107,6 +107,7 @@ docker compose up
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑</a>
 <hr style="border-top: 2px solid #333;">
 
+<!--
 ### MacOS
 > Apple's transition from Intel processors to its custom-designed chips (M1/2/3), starting with the M1 and subsequent iterations. Before their transition, Apple Mac computers used Intel processors. It is provided for both Intel and M chip processors.
 ##
@@ -132,7 +133,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - **Type**  ```Reopen in Container ``` (or) **Choose**  ```Open Folder in Container...```
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑</a>
-<hr style="border-top: 2px solid #333;">
+<hr style="border-top: 2px solid #333;"> -->
 
 ### MacOS (M Chip Processor)
 
