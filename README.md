@@ -133,7 +133,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - **Type**  ```Reopen in Container ``` (or) **Choose**  ```Open Folder in Container...```
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑</a>
-<hr style="border-top: 2px solid #333;"> -->
+<hr style="border-top: 2px solid #333;">
 
 ### MacOS (M Chip Processor)
 
@@ -157,7 +157,7 @@ git clone https://github.com/soethandara/plas_flutter_docker.git
   - **Type**  ```Reopen in Container ``` (or) **Choose**  ```Open Folder in Container...```
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑</a>
-<hr style="border-top: 2px solid #333;">
+<hr style="border-top: 2px solid #333;"> -->
 
 ## 4. About Exercises
 > Student can see 5 sample flutter projects under **/root** directory using the following comment on VS code terminal. Students need to modify these 5 sample projects according to the expected results. If above step-3 is successful, it will automatically enter to the running container and terminal will be opened. The following things can be performed at the opened terminal.
