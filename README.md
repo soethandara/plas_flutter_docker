@@ -298,7 +298,7 @@ flutter run -d web-server
 > Student need to submit **main.dart** for each exercise and the location of **main.dart** (e.g. exercise1 in below)
 - ```C://flutter_workspace/exercise1/lib/main.dart```  at **Windows**
 - current_directory```/exercise1/lib/main.dart```  at **Linux**
-- current_directory```/exercise1/lib/main.dart```  at **MacOS**
+<!-- - current_directory```/exercise1/lib/main.dart```  at **MacOS** -->
 > Student also need to submit **expected result screenshot** shows in browser (e.g. exercise1's expected result in below)
 - **Note:** please maximize browser while taking screenshot
 - <img width="2240" alt="Screenshot 2024-05-25 at 0 51 31" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/dda464a0-99e1-4c76-a61c-eee94e9a7411">
