@@ -308,7 +308,7 @@ flutter run -d web-server
 <hr style="border-top: 2px solid #333;">
 
 ## 6. Answer File Submission Links
-> After finished exercises, student need to submit **main.dart** and <!-- **expected result screenshot** --> via Moodle
+> After finished exercises, student need to submit **main.dart** and <!-- **expected result screenshot** --> via Moodle.
 > 
 > Submitted files are needed to rename as the following format.
 - **studentId_exercise1.dart** (e.g, 43M21510_exercise1.dart)
