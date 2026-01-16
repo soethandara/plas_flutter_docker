@@ -5,9 +5,9 @@
 3. 🖥 [Follow the procedure according to OS](#3-procedure-according-to-OS) 
 	- [Windows](#windows)
 	- [Linux (Ubuntu)](#linux-Ubuntu)
-<!--	- [MacOS](#macos)
+    - [MacOS](#macos)
 		- [Intel Processor](#macos-intel-processor)
-		- [M1/2/3 Chip Processor](#macos-m-chip-processor) -->
+		- [M1/2/3 Chip Processor](#macos-m-chip-processor)
 4. 📜 [About Exercises](#4-about-exercises) 
 	- [Exercise-1](#exercise-1)
 	- [Exercise-2](#exercise-2)
